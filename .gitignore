@@ -1,0 +1,33 @@
+# ARQUIVO DE CREDENCIAIS (NUNCA SUBIR)
+ConfigCredenciais.pas
+ConfigCredenciais.dfm
+
+# Executáveis e Batches
+*.bat
+*.exe
+
+# Bancos de Dados (Advantage/DBF)
+*.dbf
+*.fpt
+*.cdx
+
+# XML
+*.xml
+
+# Arquivos Temporários
+*.$$$
+
+# Pastas de Compilação do Delphi
+Win32/
+Win64/
+__history/
+__recovery/
+
+# Arquivos Temporários e de Configuração de Usuário
+*.dcu
+*.local
+*.identcache
+*.stat
+*.projdata
+*.tvsconfig
+*.skincfg
