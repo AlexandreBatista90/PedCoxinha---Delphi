@@ -46,6 +46,13 @@ Este é um projeto desenvolvido em Delphi (VCL) focado no aprendizado e fixaçã
 ---
 
 
-
+<img width="869" height="618" alt="01" src="https://github.com/user-attachments/assets/bbd120a3-60d2-489b-8f16-a7bbd07c2053" />
+<img width="977" height="666" alt="02" src="https://github.com/user-attachments/assets/41363570-e2a8-4bc5-ab75-16956aa9f6c5" />
+<img width="1357" height="778" alt="03" src="https://github.com/user-attachments/assets/dd9dffbd-14ad-47f8-8b65-f7b3d350ff8d" />
+<img width="1357" height="773" alt="04" src="https://github.com/user-attachments/assets/a2c3fa9e-06cc-490f-8375-e9234e8a8208" />
+<img width="865" height="383" alt="05" src="https://github.com/user-attachments/assets/1967d2d3-d257-4e28-a8a5-dd53c25f61e5" />
+<img width="862" height="612" alt="06" src="https://github.com/user-attachments/assets/960113f4-44c9-4eac-9733-bd32de57688f" />
+<img width="859" height="620" alt="07" src="https://github.com/user-attachments/assets/db0585ce-a6cb-4cd4-a7d9-5d607aad8cb1" />
+<img width="861" height="616" alt="08" src="https://github.com/user-attachments/assets/2842eee8-644a-48ab-bed6-7ae87f16c091" />
 
 
